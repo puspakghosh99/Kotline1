@@ -57,7 +57,7 @@ class LoginActivity : AppCompatActivity(), LoaderCallbacks<Cursor> {
 
 
         //git
-
+        // git updated on git web
 
 
         mPasswordView = findViewById<View>(R.id.password) as EditText
